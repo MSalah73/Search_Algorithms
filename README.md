@@ -2,7 +2,7 @@
 ## By Mohammed (Zack) Salah
 ## Technologies
 
-   * **Language**: *C+*
+   * **Language**: *C++*
    * **Algorithms**: *Sequential Search, Binary Search, Interpolation Search*
    
 # Installation
